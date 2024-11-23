@@ -1,3 +1,3 @@
 # CODENAME_OPOS
 
-Developed with Unreal Engine 5
+repozytorium dla Maine-coonów
